@@ -1,33 +1,34 @@
-# <ここにアプリ名を入力>
+# foodhub
 
 ## サイト概要
-<...>
+飲食店の情報を得られるSNS件ECサイト
 
 ### サイトテーマ
-<...>
+店舗がクーポンや商品等の情報を発信し、エンドユーザーはそれを確認できる。
+エンドユーザーは自分のおすすめの商品などを投稿でき、買いたい商品を購入できる。
 
 ### テーマを選んだ理由
-<...>
+私はSNSでおいしそうな食べ物を見るのがとても好きです。
+そして様々な投稿を見て、購買意欲が高くなることが多々あります。
+ですが、飲食物の場合一度他のサイトを経由して購入するというものがほとんどだと感じました。
+その為、SNSで投稿を見て、そのまま購入までできるアプリがあるととても実用的で利便性が高いと思い、このテーマにしました。
 
 ### ターゲットユーザ
-<...>
+美味しいものやお得な商品を買いたい人や、ただおいしそうなものを見たい人、自分の店のことをもっと知ってもらいたい飲食店。
 
 ### 主な利用シーン
-<...>
+空いた時間においしそうなものを見たいときや、何かお取り寄せやギフトをしたいとき、自分のお店のことをより多くの人に知ってもらいたいとき。
+飲食の繋がりで他の人と交流を持ちたいとき。
 
 ## 設計書
-<...>
+https://app.diagrams.net/?pages=1&sketch=1#G1IMRtfEWgZWmACqecaoDD6a11Tlozgzf3
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1497q49QJYkBbUT8MUEsP9I0s65rVjdh6gNh9SANygT4/edit#gid=566224576
 
 ## 開発環境
-- OS：Linux(CentOS)
-- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- OS：Windows10
+- 言語：HTML,SCSS,JavaScript,Ruby,CoffeeScript
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
-
-## 使用素材
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
